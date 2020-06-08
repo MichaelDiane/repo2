@@ -14,3 +14,6 @@ The following guides illustrate how to use some features concretely:
 
 * [Messaging with Redis](https://spring.io/guides/gs/messaging-redis/)
 
+### Setting in
+这里是测试提交条记录合并git多仓库
+
